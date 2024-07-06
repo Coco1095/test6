@@ -5,4 +5,5 @@ print(a+b)
 c=3
 print(c)
 d=6
+print('ww')
 print(d)
