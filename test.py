@@ -7,3 +7,4 @@ print(c)
 d=6
 print('ww')
 print(d)
+print("mst")
